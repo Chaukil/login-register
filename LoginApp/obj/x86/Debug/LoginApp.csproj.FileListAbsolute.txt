@@ -1,0 +1,21 @@
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csprojResolveAssemblyReference.cache
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\bin\Debug\LoginApp.exe.config
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\bin\Debug\LoginApp.exe
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\bin\Debug\LoginApp.pdb
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.csproj.AssemblyReference.cache
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.csproj.SuggestedBindingRedirects.cache
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.csproj.GenerateResource.cache
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.csproj.CoreCompileInputs.cache
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.exe
+D:\Data\Project APP\Login-Form-in-Csharp-master\Login-Form-in-Csharp-master\LoginApp\obj\x86\Debug\LoginApp.pdb
